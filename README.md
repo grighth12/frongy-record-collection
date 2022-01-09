@@ -1,7 +1,8 @@
 # 프롱이 기록 모음
-<img src="https://user-images.githubusercontent.com/68159627/148675103-74a431b9-2b30-45b5-823f-7cd4c7e8345f.png" width="45%"/>
-<img src="https://user-images.githubusercontent.com/68159627/148675094-06a3d749-1d6e-4d79-8c31-dcc63746cd1d.png" width="45%"/>
-
+<div align="center"> 
+<img src="https://user-images.githubusercontent.com/68159627/148675103-74a431b9-2b30-45b5-823f-7cd4c7e8345f.png" width="100%"/>
+<img src="https://user-images.githubusercontent.com/68159627/148675094-06a3d749-1d6e-4d79-8c31-dcc63746cd1d.png" width="100%"/>
+</div>
 데브코스에서 열린 One Day Project Study에서 만든 프로젝트입니다.
 데브코스 수강생들이 어떤 TIL을 작성하고 있는지, 회고를 작성하고 있는지 구독할 수 있는 서비스입니다.
 
